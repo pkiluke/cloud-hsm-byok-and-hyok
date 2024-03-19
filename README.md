@@ -14,6 +14,10 @@ I will use a fictional company called **Kotatko LLC** in the worklows depicted i
 The logos used in the article are in a public domain
 
 for ABB - <a href="https://en.wikipedia.org/wiki/File:ABB_logo.svg">ABB logo</a>
+for Honeywell - <a href="https://en.m.wikipedia.org/wiki/File:Honeywell_logo.svg">Honeywell logo</a>
+for Siemens - <a href="https://commons.wikimedia.org/wiki/File:Siemens-logo.svg">Siemens logo</a>
+for Mitsubishi Electric - <a href="https://en.wikipedia.org/wiki/File:Mitsubishi_Electric_logo.png">Mitsubishi Electric logo</a>
+
  
 Enjoy the reading!
 
