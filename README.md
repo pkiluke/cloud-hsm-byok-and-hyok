@@ -194,7 +194,7 @@ A summary of **HYOK**,
 - Not all cloud-native services support **HYOK**.
 
 # Conclusion
-When considering **BYO**K or **HYOK** asking the question “Which is more secure?” is a wrong question to ask, a more appropriate question to ask is “What are the requirements?”. From a security perspective there is a zero difference between **BYOK** and **HYOK**. What **BYOK** and **HYOK** impact are the areas of performance, key provenance (origin of the key), useability and backup.
+When considering **BYOK** or **HYOK** asking the question “Which is more secure?” is a wrong question to ask, a more appropriate question to ask is “What are the requirements?”. From a security perspective there is a zero difference between **BYOK** and **HYOK**. What **BYOK** and **HYOK** impact are the areas of performance, key provenance (origin of the key), useability and backup.
  
 Standardization bodies such as NIST and ISO are often the go-to for security baselines and standard of practices to follow, unfortunately the definition of “how to address cryptographic key management” in these standards were written in the time before cloud and don't apply well to after cloud. When dealing with cryptographic key management these standards require the customer to maintain a physical ownership of cryptographic keys, in **BYOK** scenario, **Kotatko LLC** generates a cryptographic key (DEK) and copies it to the cloud, which means that both **Kotatko LLC** and CSP have the physical ownership of the DEK while in **HYOK** scenario **Kotatko LLC** manages the KEK and CSP the DEK, which means **Kotatko LLC** is not in a physical ownership of both.
  
