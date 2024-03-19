@@ -179,7 +179,9 @@ A simplified **HYOK** workflow works as follows,
 <img src="images/hyok-simplified-1.png">
 </p>
 
-When **Kotatko LLC** needs to work with the cloud service the **Kotatko LLC** CKM and the CSP KMS need to reverse the **HYOK** process to decrypt the DEK that in turn decrypts the data of the cloud service. When the DEK is decrypted and used by the cloud service to decrypt the data, the cloud service caches the DEK in-memory for a specific time period (depending on the cloud service) or the DEK can be further protected by additional controls, such as confidential computing (e.g., Intel SGX, AMD SEV). **The KEK never leaves the Kotatko LLC HSM**.
+When **Kotatko LLC** needs to work with the cloud service the **Kotatko LLC** CKM and the CSP KMS need to reverse the **HYOK** process to decrypt the DEK that in turn decrypts the data of the cloud service. 
+
+When the DEK is decrypted and used by the cloud service to decrypt the data, the cloud service caches the DEK in-memory for a specific time period (depending on the cloud service) or the DEK can be further protected by additional controls, such as confidential computing (e.g., Intel SGX, AMD SEV). **The KEK never leaves the Kotatko LLC HSM**.
 
 <p align="center">
 <img src="images/hyok-simplified-2.png">
