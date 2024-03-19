@@ -154,7 +154,9 @@ A simplified **BYOK** workflow is as follows, when **Kotatko LLC** needs to “b
 <img src="images/byok-simplified-1.png">
 </p>
 
-When **Kotatko LLC** needs to work with a cloud service or provision a cloud service it requires a communication between CSP KMS and the cloud service. The imported cryptographic key (DEK) becomes a KEK for cryptographic key hierarchy of cloud services and the cloud services create individual DEK keys as they are provisioned. When the DEK is decrypted and used by the cloud service to decrypt the data, the cloud service caches the DEK in-memory for a specific time period (depending on the cloud service) or the DEK can be further protected by additional controls, such as confidential computing (e.g., Intel SGX, AMD SEV). **The KEK never leaves the CSP HSM**.
+When **Kotatko LLC** needs to work with a cloud service or provision a cloud service it requires a communication between CSP KMS and the cloud service. The imported cryptographic key (DEK) becomes a KEK for cryptographic key hierarchy of cloud services and the cloud services create individual DEK keys as they are provisioned. 
+
+When the DEK is decrypted and used by the cloud service to decrypt the data, the cloud service caches the DEK in-memory for a specific time period (depending on the cloud service) or the DEK can be further protected by additional controls, such as confidential computing (e.g., Intel SGX, AMD SEV). **The KEK never leaves the CSP HSM**.
 
 <p align="center">
 <img src="images/byok-simplified-2.png">
