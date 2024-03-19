@@ -10,6 +10,10 @@ Because I've been working on data governance and cryptography quite a lot these 
 A short disclaimer, the article does not detail any cloud provider-specific implementation details and the contents is simplified for the sake of understanding by the general audience. If you are an expert please don't chastise me.
 
 I will use a fictional company called **Kotatko LLC** in the worklows depicted in this article.
+
+The logos used in the article are in a public domain
+
+for ABB - <a href="https://en.wikipedia.org/wiki/File:ABB_logo.svg">ABB logo</a>
  
 Enjoy the reading!
 
