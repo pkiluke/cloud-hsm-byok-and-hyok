@@ -148,7 +148,7 @@ In a **BYOK** scenario **Kotatko LLC** creates a cryptographic key (DEK) in a CK
  
 Because the main value of **BYOK** is the control over the key generation procedure which is typically done manually and recorded step-by-step for auditing or due dilligence purposes, it only makes sense to perform **BYOK** in a CKM in **Kotatko LLC** datacenter, but nowadays there are 3rd party vendors that provide a CKM as part of their “as a Service” portfolio and the **BYOK** procedure can be fully automated.
  
-A simplified **BYOK** workflow is as follows, when **Kotatko LLC** needs to “bring” (import) a cryptographic key (DEK) to the cloud, it requires a communication between the **Kotatko LLC** CKM on the left and the CSP KMS on the right,
+A simplified **BYOK** workflow is as follows, when **Kotatko LLC** needs to “bring” (import) a cryptographic key (DEK) to the cloud, it requires a communication between the **Kotatko LLC** CKM on the left and the CSP KMS on the right.
 
 <p align="center">
 <img src="images/byok-simplified-1.png">
