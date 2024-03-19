@@ -7,7 +7,7 @@ Welcome dear readers,
  
 Because I've been working on data governance and cryptography quite a lot these days and part of data governance is data security, I've decided to write a short article on the topics of cloud HSM, BYOK and HYOK.
  
-A short disclaimer, the article does not detail any cloud provider-specific implementation details and the contents is simplified for the sake of understanding by the general audience. If you are an expert please don't chastise me. 
+A short disclaimer, the article does not detail any cloud provider-specific implementation details and the contents is simplified for the sake of understanding by the general audience.
 
 Additionally, I'm using a fictional company called **Kotatko LLC** in the worklows depicted in this article. The logos used in the article were sourced from from the public domain - <a href="https://en.wikipedia.org/wiki/File:ABB_logo.svg">ABB logo</a>, <a href="https://en.m.wikipedia.org/wiki/File:Honeywell_logo.svg">Honeywell logo</a>, <a href="https://commons.wikimedia.org/wiki/File:Siemens-logo.svg">Siemens logo</a>, <a href="https://en.wikipedia.org/wiki/File:Mitsubishi_Electric_logo.png">Mitsubishi Electric logo</a>, <a href="https://commons.wikimedia.org/wiki/File:SchneiderElectric_Logo.svg">Schneider Electric logo</a>, <a href="https://en.wikipedia.org/wiki/File:Danfoss-Logo.svg">Danfoss logo</a> and all the other drawings were created by the me.
 
