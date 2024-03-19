@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/pkiluke/cloud-hsm-byok-and-hyok/master/images/background.png"/>
+</div>
+
 # Introduction
 Welcome dear readers,
  
