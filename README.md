@@ -9,7 +9,7 @@ Because I've been working on data governance and cryptography quite a lot these 
  
 A short disclaimer, the article does not detail any cloud provider-specific implementation details and the contents is simplified for the sake of understanding by the general audience.
 
-Additionally, I'm using a fictional company called **Kotatko LLC** in the worklows depicted in this article. The logos used in the article were sourced from from the public domain - <a href="https://en.wikipedia.org/wiki/File:ABB_logo.svg">ABB</a>, <a href="https://en.m.wikipedia.org/wiki/File:Honeywell_logo.svg">Honeywell</a>, <a href="https://commons.wikimedia.org/wiki/File:Siemens-logo.svg">Siemens</a>, <a href="https://en.wikipedia.org/wiki/File:Mitsubishi_Electric_logo.png">Mitsubishi Electric</a>, <a href="https://commons.wikimedia.org/wiki/File:SchneiderElectric_Logo.svg">Schneider Electric</a>, <a href="https://en.wikipedia.org/wiki/File:Danfoss-Logo.svg">Danfoss</a> and all the other drawings were created by the me.
+Additionally, the article uses a fictional company called **Kotatko LLC** in the worklows depicted in this article. The logos used in the article were sourced from from the public domain - <a href="https://en.wikipedia.org/wiki/File:ABB_logo.svg">ABB</a>, <a href="https://en.m.wikipedia.org/wiki/File:Honeywell_logo.svg">Honeywell</a>, <a href="https://commons.wikimedia.org/wiki/File:Siemens-logo.svg">Siemens</a>, <a href="https://en.wikipedia.org/wiki/File:Mitsubishi_Electric_logo.png">Mitsubishi Electric</a>, <a href="https://commons.wikimedia.org/wiki/File:SchneiderElectric_Logo.svg">Schneider Electric</a>, <a href="https://en.wikipedia.org/wiki/File:Danfoss-Logo.svg">Danfoss</a> and all the other drawings were created by the author.
 
 Enjoy the reading!
 
