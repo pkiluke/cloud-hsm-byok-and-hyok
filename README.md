@@ -121,11 +121,11 @@ Because there are several synonymous terms, let's clear them up first,
  
 To better understand the contents of the pictures in the following paragraphs let’s explain the most important terms.
  
-**CSP** (Cloud Service Provider) – Microsoft Azure, GCP and AWS.<br>
-**CKM** (Cryptographic Key Management) – A solution for managing the lifecycle of cryptographic keys.<br>
+**CSP** (Cloud Service Provider) – Microsoft Azure, GCP and AWS<br>
+**CKM** (Cryptographic Key Management) – A solution for managing the lifecycle of cryptographic keys (e.g., Thales CTM, Fortanix DSM)<br>
 **KMS** (Key Management Service) – A CKM hosted and managed by the CSP (e.g., Azure Key Vault, GCP KMS and AWS KMS)<br>
-**KEK** (Key Encryption Key) – A cryptographic key that protects (encrypts) the DEK.<br>
-**DEK** (Data Encryption Key) – A cryptographic key that protects (encrypts) the data of the cloud service.
+**KEK** (Key Encryption Key) – A cryptographic key that protects (encrypts) the DEK<br>
+**DEK** (Data Encryption Key) – A cryptographic key that protects (encrypts) the data of the cloud service
  
 In the cloud there are two general options of managing cryptographic keys (there are more options, but let's keep it simple).
  
