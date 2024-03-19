@@ -17,8 +17,9 @@ for ABB - <a href="https://en.wikipedia.org/wiki/File:ABB_logo.svg">ABB logo</a>
 for Honeywell - <a href="https://en.m.wikipedia.org/wiki/File:Honeywell_logo.svg">Honeywell logo</a>
 for Siemens - <a href="https://commons.wikimedia.org/wiki/File:Siemens-logo.svg">Siemens logo</a>
 for Mitsubishi Electric - <a href="https://en.wikipedia.org/wiki/File:Mitsubishi_Electric_logo.png">Mitsubishi Electric logo</a>
+for Schneider Electric - <a href="https://commons.wikimedia.org/wiki/File:SchneiderElectric_Logo.svg">Schneider Electric logo</a>
+for Danfoss - <a href="https://en.wikipedia.org/wiki/File:Danfoss-Logo.svg">Danfoss logo</a>
 
- 
 Enjoy the reading!
 
 # The difference between physical HSM and cloud HSM
