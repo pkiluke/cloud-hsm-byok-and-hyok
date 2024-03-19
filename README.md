@@ -100,7 +100,7 @@ Today majority of companies move increasingly more and more data (i.e., terabyte
 <img src="images/without-kh.png">
 </p>
 
-Because the data in the cloud is stored and processed in a shared computational environment and there is no physical separation between cloud tenants, the cloud providers separate cloud tenants and their data logically using cryptography more specifically every cloud tenant has a different cryptographic key hierarchy (i.e., KH<sub>ABB</sub>, KH<sub>SIEMENS</sub>, KH<sub>MITSUBISHI</sub>, KH<sub>HONEYWELL</sub>, KH<sub>SCHNEIDER</sub>, KH<sub>DANFOSS</sub>).
+Because the data in the cloud is stored and processed in a shared computational environment and there is no physical separation between cloud tenants, the cloud providers separate cloud tenants and their data logically using cryptography more specifically every cloud tenant has a different cryptographic key hierarchy (i.e., KH<sub>A</sub>, KH<sub>B</sub>, KH<sub>C</sub>, KH<sub>D</sub>, KH<sub>E</sub>, KH<sub>F</sub>).
 
 <p align="center">
 <img src="images/with-kh.png">
